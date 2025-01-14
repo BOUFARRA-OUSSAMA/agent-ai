@@ -53,7 +53,7 @@ All interactions and tool results are recorded so that the agent *remembers* wha
    - Stores conversation logs in `db.json` so the agent *remembers* previous user interactions.
 
 ---
-
+## Project Structure
 - **`index.ts`** loads your prompt from CLI arguments and runs the agent.
 - **`agent.ts`** handles the loop to call the LLM, check for tool usage, and return output.
 - **`memory.ts`** is where interactions are read/written to `db.json`.
