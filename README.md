@@ -11,7 +11,6 @@ A simple yet versatile **chat-based AI assistant** built with Node.js. It uses *
 - [Memory and Persistence](#memory-and-persistence)
 - [Screenshots](#screenshots)
 - [Future Plans](#future-plans)
-- [License](#license)
 
 ---
 
